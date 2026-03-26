@@ -6,7 +6,7 @@ I’m a Senior Software Engineer based in Sorrento, Florida. I specialize in bui
 
 🚀 What I'm All About
 
-* Financial Tech at Scale: Served as a Client-side directly responsible individual for core products at Cash App, managing systems that support millions of customers and billions in transactions.
+* Financial Tech at Scale: Served as a client-side lead for core products at Cash App, managing systems that support millions of customers and billions in transactions.
 
 * Hardware & BLE Integration: Extensive experience architecting and developing apps and SDKs that interface with hardware over Bluetooth Low Energy (BLE).
 
